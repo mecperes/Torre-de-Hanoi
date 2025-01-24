@@ -27,6 +27,9 @@ Neste projeto em específico não utilizei uma pilha simples, e sim uma pilha m�
 
 O game consiste basicamente em montar novamente a torre em outro disco (sem ser no que ja vem montado), com o mínimo de movimentos que conseguir, levando em consideração que um disco maior não pode sobrepor um menor NUNCA.
 
+Para movimentar os discos, basta clicar nas teclas respectivas de cada Torre (A, B ou C) de origem, em seguida, de destino.
+(Exemplo: quero movimentar um disco da torre A para a torre C, basta clicar A, depois clicar C).
+
 ---
 
 ### **Como rodar:**
